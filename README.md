@@ -72,7 +72,7 @@ Per ogni elemento `e` presente in posizione `i` deve quindi valere l'**invariant
 2. `HeapSort.java`
 3. `BinaryHeapMinPriorityQueue.java`
 
-I file si trovano nella cartella `src/main/java/it/unicam/cs/asdl2526/es10/` del progetto studenti. **Non consegnare** il progetto ZIP, i test JUnit, il README, il `pom.xml` né le quattro classi di supporto già implementate. Mantenere invariati package, nomi delle classi, firme dei metodi e contratti delle API, così da consentire la compilazione e l'esecuzione dei test.
+I file si trovano nella cartella `src/main/java/it/unicam/cs/asdl/esheap` del progetto studenti. **Non consegnare** il progetto ZIP, i test JUnit, il README, il `pom.xml` né le quattro classi di supporto già implementate. Mantenere invariati package, nomi delle classi, firme dei metodi e contratti delle API, così da consentire la compilazione e l'esecuzione dei test.
 
 ## Esecuzione, test e metodo di studio
 
